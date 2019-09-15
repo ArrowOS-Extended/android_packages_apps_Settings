@@ -274,4 +274,7 @@
     <!-- USB configuration -->
     <string name="usb_default_config_title">USB configuration</string>
     <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
+
+    <!-- Battery temperature -->
+    <string name="battery_temperature">Battery temperature</string>
 </resources>
