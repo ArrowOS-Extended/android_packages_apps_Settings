@@ -157,4 +157,5 @@
     <string name="app_volume_summary">Permite definir diferentes níveis de volume para cada aplicativo</string>
     <string name="game_space_title">Espaço de jogo</string>
     <string name="game_space_summary">Configure seus jogos com ferramentas úteis para melhorar a jogatina.</string>
+    <string name="selinux_status">Status do SELinux</string>
 </resources>
