@@ -148,6 +148,11 @@
         android:ringtoneType="alarm"
         android:order="-115"/>
 
+    <!-- In-call notifications -->
+    <SwitchPreference
+        android:key="in_call_notifications"
+        android:title="@string/in_call_notifications_title"/>
+
     <!-- Also vibration -->
     <Preference
         android:fragment="com.android.settings.accessibility.VibrationSettings"

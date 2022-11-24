@@ -296,4 +296,7 @@
     <!-- ArrowOS maintainer -->
     <string name="maintainer">Maintainer</string>
     <string name="maintainer_name" translatable="false">Your local GitHub Retard</string>
+
+    <!-- In-call notifications -->
+    <string name="in_call_notifications_title">In-call notifications</string>
 </resources>

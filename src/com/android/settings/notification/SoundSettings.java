@@ -276,6 +276,11 @@ public class SoundSettings extends DashboardFragment implements OnActivityResult
         controllers.add(new AlarmRingtonePreferenceController(context));
         controllers.add(new NotificationRingtonePreferenceController(context));
 
+        final InCallNotificationsPreferenceController inCallNotificationsPreferenceController =
+                new InCallNotificationsPreferenceController(context, fragment, lifecycle);
+
+        controllers.add(inCallNotificationsPreferenceController);
+
         return controllers;
     }
 
