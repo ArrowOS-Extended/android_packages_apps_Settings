@@ -300,7 +300,7 @@
     <string name="sound_settings_advanced_title">Additional sounds</string>
 
     <!-- Hardware info -->
-    <string name="platform_revision">Platform</string>
+    <string name="soc_model">SoC Model</string>
     <string name="total_ram">Total RAM</string>
 
     <!-- USB configuration -->
