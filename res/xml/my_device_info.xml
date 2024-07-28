@@ -72,14 +72,6 @@
             android:title="@string/legal_information"
             android:fragment="com.android.settings.LegalSettings"/>
 
-        <!-- Regulatory labels -->
-        <Preference
-            android:key="regulatory_info"
-            android:order="16"
-            android:title="@string/regulatory_labels">
-            <intent android:action="android.settings.SHOW_REGULATORY_INFO"/>
-        </Preference>
-
         <!-- Safety & regulatory manual -->
         <Preference
             android:key="safety_info"
