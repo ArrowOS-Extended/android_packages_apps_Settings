@@ -158,4 +158,5 @@
     <string name="game_space_title">Espaço de jogo</string>
     <string name="game_space_summary">Configure seus jogos com ferramentas úteis para melhorar a jogatina.</string>
     <string name="selinux_status">Status do SELinux</string>
+    <string name="maintainer">Mantenedor</string>
 </resources>
