@@ -160,4 +160,9 @@
     <string name="selinux_status">Status do SELinux</string>
     <string name="maintainer">Mantenedor</string>
     <string name="in_call_notifications_title">Notificações durante a chamada</string>
+    <string name="heads_up_title">Notificações Heads-up</string>
+    <string name="heads_up_summary">Mostrar notificações selecionadas como um banner na parte superior da tela</string>
+    <string name="heads_up_off">Esta função está desativado globalmente</string>
+    <string name="less_boring_heads_up_title">Notificações prioritárias</string>
+    <string name="less_boring_heads_up_summary">Mostrar avisos apenas para chamadas, mensagens, alarmes, lembretes e conversas prioritárias</string>
 </resources>
