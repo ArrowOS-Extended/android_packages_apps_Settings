@@ -218,7 +218,6 @@
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
     <string name="ambient_display_screen_off_udfps_summary">Allows unlocking with the screen off.\nEnabling may cause accidental wake-ups.</string>
 
-
     <!-- DC Dimming -->
     <string name="dc_dimming_title">DC Dimming</string>
     <string name="dc_dimming_info">Reduces eye strain in low light conditions by minimizing screen flicker. May result in reduced image quality and poor color production, or higher power consumption.</string>
@@ -230,10 +229,10 @@
     <string name="spoofing_settings_summary">Misc device spoofing settings</string>
     <string name="summary_pif_json_loader">Pick a custom play integrity fix JSON file for spoofing play integrity</string>
     <string name="summary_applied_json_viewer">View currently applied play integrity fix values</string>
-    <string name="summary_pif_enabled"> Custof PIF values are enabled</string>
-    <string name="summary_pif_disabled"> Custof PIF values are disabled</string>
-    <string name="summary_gphotos_spoof_enabled"> Google photos unlimited backup is enabled</string>
-    <string name="summary_gphotos_spoof_disabled"> Google photos unlimited backup is disabled</string>
+    <string name="summary_pif_enabled">Custom PIF values are enabled</string>
+    <string name="summary_pif_disabled">Custom PIF values are disabled</string>
+    <string name="summary_gphotos_spoof_enabled">Unlimited backup is enabled</string>
+    <string name="summary_gphotos_spoof_disabled">Unlimited backup is disabled</string>
 
     <!-- Main settings screen setting option to go in to Spoofing-->
     <string name="json_spoofing_enabled_title">Use custom play integrity fix values</string>
@@ -243,8 +242,8 @@
     <string name="show_pif_properties_title">PIF properties</string>
 
     <!-- Google photos spoof strings -->
-    <string name="gphotos_options_title"> Google Photos </string>
-    <string name="gphotos_spoof_switch_title"> Enable Google photos unlimited backup </string>
+    <string name="gphotos_options_title">Google Photos</string>
+    <string name="gphotos_spoof_switch_title">Unlimited Photos storage</string>
     <!-- Spoofing Search keywords -->
     <string name="keywords_spoofing_settings">spoof, pif, pihook, json</string>
     <!-- Search keyword for "PIF JSON Loader" settings [CHAR_LIMIT=NONE]-->
@@ -252,13 +251,15 @@
     <!-- Search keyword for PIF JSON Viewer -->
     <string name="keywords_pif_json_viewer">pif, pihook, json, view</string>
     <!-- Search Google photos spoofing-->
-    <string name="keywords_gphotos_spoof"> photos, backup, google </string>
+    <string name="keywords_gphotos_spoof"> photos, backup, google</string>
+
     <!-- Wake on plug -->
     <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
     <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
 
     <!-- Errors -->
     <string name="error_loading_properties">Error loading system properties</string>
+
     <!-- Smart 5G -->
     <string name="smart_5g_title">Smart 5G</string>
     <string name="smart_5g_summary">Automatically switch between 5G and 4G to reduce battery consumption</string>
