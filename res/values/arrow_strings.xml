@@ -233,6 +233,7 @@
     <string name="summary_pif_disabled">Custom PIF values are disabled</string>
     <string name="summary_gphotos_spoof_enabled">Unlimited backup is enabled</string>
     <string name="summary_gphotos_spoof_disabled">Unlimited backup is disabled</string>
+    <string name="summary_key_attestation">Disables all built-in keybox and bootloader state spoofs. Required for modules like TrickyStore.</string>
 
     <!-- Main settings screen setting option to go in to Spoofing-->
     <string name="json_spoofing_enabled_title">Use custom play integrity fix values</string>
@@ -244,6 +245,11 @@
     <!-- Google photos spoof strings -->
     <string name="gphotos_options_title">Google Photos</string>
     <string name="gphotos_spoof_switch_title">Unlimited Photos storage</string>
+    
+    <!-- Key attestation/ keybox spoof strings -->
+    <string name="key_attestation_keybox_title">Keybox/key attestation options</string>
+    <string name="key_attestation_switch_title">Disable key attestation spoofs</string>
+
     <!-- Spoofing Search keywords -->
     <string name="keywords_spoofing_settings">spoof, pif, pihook, json</string>
     <!-- Search keyword for "PIF JSON Loader" settings [CHAR_LIMIT=NONE]-->
